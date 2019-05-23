@@ -9,9 +9,12 @@ dependencies:
   - cython=0.29.7
   - ipykernel=5.1.0
   - keras=2.2.4
+  - matplotlib=3.1.0
+  - nltk=3.4.1
   - pandas=0.24.2
   - pip=19.1
   - python=3.6.8
+  - scikit-learn 0.21.1
   - spacy-model-en_core_web_md=2.1.0
   - spacy-model-en_core_web_sm=2.1.0
   - spacy=2.1.4

@@ -1,4 +1,5 @@
 docker-compose.yml
 Dockerfile
 notebooks/.*
+notebooks/nltk_data/*
 notebooks/scratch.ipynb
