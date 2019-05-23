@@ -1,0 +1,4 @@
+docker-compose.yml
+Dockerfile
+notebooks/.*
+notebooks/scratch.ipynb

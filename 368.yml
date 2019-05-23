@@ -1,0 +1,20 @@
+name: p368
+channels:
+  - conda-forge
+  - pytorch
+  - defaults
+prefix: /opt/conda/envs/p368
+dependencies:
+  - altair=3.0.1
+  - cython=0.29.7
+  - ipykernel=5.1.0
+  - keras=2.2.4
+  - pandas=0.24.2
+  - pip=19.1
+  - python=3.6.8
+  - spacy-model-en_core_web_md=2.1.0
+  - spacy-model-en_core_web_sm=2.1.0
+  - spacy=2.1.4
+  - pip:
+    - cupy-cuda101==6.0.0
+    - git+https://github.com/explosion/thinc_gpu_ops
